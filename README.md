@@ -1,3 +1,3 @@
 ## Arvore
 
-##### Aula da DIO sobre Árvore
+##### Aula da DIO sobre Árvore Binária
